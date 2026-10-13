@@ -1,0 +1,15 @@
+language: ja
+genre: business/report
+
+required_sections:
+  - 作業
+  - 状態
+  - やったこと
+  - 確かめたこと
+  - 確かめ役の指摘
+  - 残っていること
+  - 持ち主に決めてほしいこと
+  - 画面で確かめる手順
+
+rules:
+  latin-spacing: off
